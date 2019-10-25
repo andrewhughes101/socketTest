@@ -1,0 +1,2 @@
+project-name: sockettest
+stack: appsody/nodejs:0.2
