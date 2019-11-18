@@ -10,8 +10,7 @@
     "directory": "incubator/nodejs-express/templates/simple"
   },
   "scripts": {
-    "test": "mocha",
-    "start": "node app.js"
+    "test": "mocha"
   },
   "devDependencies": {
     "chai": "^4.2.0",
@@ -19,8 +18,6 @@
     "request": "^2.88.0"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "socket.io": "^2.3.0",
-    "socket.io-redis": "^5.2.0"
+    "socket.io": "^2.3.0"
   }
 }
